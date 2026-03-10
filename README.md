@@ -1,5 +1,6 @@
-#Info
+## Info
 Simple but useful React UI Components that displays the steps, displays messages on particular steps and adapt to className dinamically(no hardcoding)
+View The Live Demo [LIVE](https://sequentialsteps.vercel.app/)
 
 ## Available Scripts
 
